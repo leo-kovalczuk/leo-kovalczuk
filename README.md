@@ -2,7 +2,7 @@
 
 Meu nome é leo kovalczuk
 
-- Eu estou estudando no Alura
+- Eu estou estudando no [Alura](https://cursos.alura.com.br/loginForm?logout)
 - Utilizo esse espaço para organizar meus projetos
 
 **Você pode entrar em contato comigo**📫
