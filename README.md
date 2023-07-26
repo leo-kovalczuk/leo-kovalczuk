@@ -6,6 +6,7 @@ Meu nome é leo kovalczuk
 - Utilizo esse espaço para organizar meus projetos
 
 **Você pode entrar em contato comigo**📫
+
 leo.kovalczuk@escola.pr.gov.br
 
 @_l_kovalczuk_
